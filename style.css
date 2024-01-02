@@ -1,0 +1,84 @@
+
+body{
+
+    background-color: rgba(227,242,253,255);
+    font-family: sans-serif;
+
+}
+.left{
+   
+    width: 470px;
+    margin-left: -90px;
+    margin-top: -375px
+
+}
+.right{
+background-color:white;
+width: 300px;
+height: 670px;
+margin-bottom: 6px;  
+  border-radius: 15px;
+  border: 2px solid white;
+  clear: left;
+}
+#right1{
+    float: right;
+    margin-top: -520px;
+    margin-right: 150px; ;
+}
+#right2{
+    float: right;
+    margin-top: -520px;
+    margin-right: 50px;
+}
+.Tleft{
+    border: 8px solid rgba(64,112,244,255);
+    border-radius: 10px;
+    background-color:rgba(64,112,244,255) ;
+    margin-top: 200px;
+    margin-left: 80px;  height: 370px;
+}
+
+.left >p{
+    font-size: 7em;
+    font-weight: bold;
+    margin-top: 0px; 
+    margin-bottom: 0px;
+    margin-left: 200px;
+}
+.right>img{
+    width: 20px;
+    margin-top: 25px;
+    margin-left: 20px;
+    
+}
+.right>h3{
+    margin-top: -31px;
+    margin-left: 50px;
+    font-size: 25px;
+    width: fit-content;
+}
+.middle{
+    font-weight: 600;
+  
+    color: rgb(0, 0, 0);
+    opacity: .8;
+    margin-left: 10px;
+    margin-bottom: 25px; 
+    margin-top: 0px;
+}
+td{
+    height: 56px;
+   padding-left: 5px;
+    border-radius: 10px;
+    width: 270px; 
+}
+td:hover{
+    background-color: rgba(64,112,244,255) ;
+    color: rgba(255, 255, 255, 0.913);
+    cursor: pointer;
+}
+td>img{
+    margin-right: 15px;
+    width: 20px;
+}
